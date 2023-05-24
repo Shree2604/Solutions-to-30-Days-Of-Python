@@ -34,9 +34,13 @@ Here, we prompt the user to enter the base and height of a triangle using the in
 ## Exercise 5: Calculate the perimeter of a triangle
 
 side_a = float(input("Enter side a: "))
+
 side_b = float(input("Enter side b: "))
+
 side_c = float(input("Enter side c: "))
+
 perimeter = side_a + side_b + side_c
+
 print("The perimeter of the triangle is", perimeter)
 
 In this exercise, we ask the user to enter the lengths of the three sides of a triangle. The inputs are converted to float using float(). We then calculate the perimeter by adding the lengths of the three sides together and store the result in the variable perimeter. Finally, we display the calculated perimeter.
@@ -45,10 +49,15 @@ In this exercise, we ask the user to enter the lengths of the three sides of a t
 ## Exercise 6: Calculate the area and perimeter of a rectangle
 
 length = float(input("Enter length: "))
+
 width = float(input("Enter width: "))
+
 area = length * width
+
 perimeter = 2 * (length + width)
+
 print("The area of the rectangle is", area)
+
 print("The perimeter of the rectangle is", perimeter)
 
 Here, we prompt the user to enter the length and width of a rectangle. The inputs are converted to float using float(). We then calculate the area of the rectangle by multiplying the length and width and store it in the variable area. Similarly, we calculate the perimeter by using the formula 2 * (length + width) and store it in the variable perimeter. Finally, we display the calculated area and perimeter.
@@ -57,10 +66,15 @@ Here, we prompt the user to enter the length and width of a rectangle. The input
 ## Exercise 7: Calculate the area and circumference of a circle
 
 radius = float(input("Enter radius: "))
+
 pi = 3.14
+
 area = pi * radius * radius
+
 circumference = 2 * pi * radius
+
 print("The area of the circle is", area)
+
 print("The circumference of the circle is", circumference)
 
 In this exercise, we ask the user to enter the radius of a circle. The input is converted to float using float(). We then calculate the area of the circle using the formula pi * radius * radius, where pi is approximately 3.14. The calculated area is stored in the variable `
