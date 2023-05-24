@@ -1,6 +1,6 @@
 # Solutions to 30 Days Of Python
 
-This repository contains the solutions to the exercise problems from my previously forked repository, [30 Days Of Python](https://github.com/your-username/30-Days-Of-Python).
+This repository contains the solutions to the exercise problems from my previously forked repository, [30 Days Of Python](https://github.com/Shree2604/30-Days-Of-Python).
 
 ## Day-wise Topics
 
