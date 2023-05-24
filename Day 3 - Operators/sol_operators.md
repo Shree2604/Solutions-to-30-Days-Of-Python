@@ -22,8 +22,11 @@ In this exercise, we declare a variable named complex_num and assign it the valu
 ## Exercise 4: Calculate the area of a triangle
 
 base = float(input("Enter base: "))
+
 height = float(input("Enter height: "))
+
 area = 0.5 * base * height
+
 print("The area of the triangle is", area)
 
 Here, we prompt the user to enter the base and height of a triangle using the input() function. The values are converted to float using float() for calculation purposes. We then calculate the area of the triangle using the formula 0.5 * base * height and store it in the variable area. Finally, we print the calculated area.
