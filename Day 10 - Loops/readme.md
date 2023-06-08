@@ -1,4 +1,4 @@
-Day 9 - Conditionals
+Day 10 - Loops
 
 ## HELLO THIS IS M SHREERAJ 
 
