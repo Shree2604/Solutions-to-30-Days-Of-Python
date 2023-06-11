@@ -14,8 +14,11 @@ print(list_of_tuples)
 
 # Flatten the list to a new list
 countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
-flattened_countries = [[item.upper() for sublist in country for item in sublist] for country in countries]
-print(flattened_countries)
+
+flattened_list = [[country[0].upper(), country[0][:3].upper(), country[1].upper()] for sublist in countries for country in sublist]
+
+print(flattened_list)
+
 
 # Change the list to a list of dictionaries
 countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
