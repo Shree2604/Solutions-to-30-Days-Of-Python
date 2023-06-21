@@ -2,4 +2,4 @@
 
 ## 💻 Exercises: Day 15
 
-1. Open you python interactive shell and try all the examples covered in this section.**
+1. Open you python interactive shell and try all the examples covered in the lecture.**
