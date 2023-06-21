@@ -1,4 +1,4 @@
-# Day 13  - Higher Order Functions
+# Day 14  - Higher Order Functions
 
 
  Every folder contains a readme.md file, sol_topicname.py (a python script with solutions),
